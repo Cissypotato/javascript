@@ -39,7 +39,7 @@ sum2(19,88,4,16)
 
 
 
-//剩余参数
+//剩余参数 
 function sum3(...rest){
     console.log(rest)
 }
